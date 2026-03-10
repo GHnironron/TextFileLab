@@ -1,0 +1,6 @@
+Milk,80
+Bread,65
+Eggs,120
+Coffee,150
+Chocolate,199.75
+Rice,52.30

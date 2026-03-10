@@ -1,0 +1,3 @@
+QuickCart Receipt
+-------------------
+Total: 415.0

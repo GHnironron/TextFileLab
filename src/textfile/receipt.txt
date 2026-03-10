@@ -1,0 +1,13 @@
+QuickCart Receipt (Thank you for your Purchase!)
+-------------------
+Items Purchased:
+ Milk,80
+ Bread,65
+ Eggs,120
+ Coffee,150
+ Chocolate,199.75
+ Rice,52.30
+-------------------
+Subtotal: 667.05
+Discounted Amount: 33.35
+Total (After Discount): 633.70
