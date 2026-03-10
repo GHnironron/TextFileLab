@@ -8,7 +8,7 @@ import java.util.ArrayList;
 
 
 public class QuickcartReadingAndWritingFiles {
-
+    // HELLO GITHUB!
     // Reads each line from items.txt and stores them in a list
     public static ArrayList<String> readItemsFromFile() {
         ArrayList<String> items = new ArrayList<>();
